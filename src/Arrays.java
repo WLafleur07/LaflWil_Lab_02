@@ -105,7 +105,7 @@ public class Arrays
      * @param arrayTwo 1D int array
      * @return Boolean isEqual, True or False
      */
-    public static Boolean AreArraysEqual(int[] arrayOne, int[] arrayTwo)
+    public static boolean AreArraysEqual(int[] arrayOne, int[] arrayTwo)
     {
         Boolean isEqual = false;
 
@@ -121,7 +121,7 @@ public class Arrays
      * @param arrayTwo 2D int array
      * @return Boolean isEqual, True or False
      */
-    public static Boolean Are2DArraysEqual(int[][] arrayOne, int[][] arrayTwo)
+    public static boolean Are2DArraysEqual(int[][] arrayOne, int[][] arrayTwo)
     {
         Boolean isEqual = false;
 
